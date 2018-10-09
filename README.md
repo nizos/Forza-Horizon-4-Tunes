@@ -6,7 +6,7 @@ Open sourced Forza Horizon 4 car tunes.
 
 ## TODO:
 
-- [ ] Create car make directories.
+- [x] Create car make directories.
 - [ ] Create car model directories for the car makes.
 - [ ] Create PI (performance index) directories for all car models.
 - [ ] Create TT (tuning type) directories for all the cars PI directories.
